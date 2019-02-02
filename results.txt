@@ -1,0 +1,76 @@
+24dec08:
+% of Healthy Veg cover=  2.91049254579
+% of Vegetation cover=  87.8304331743
+% of Soil cover=  5.51942604478
+% of Water cover=  2.83920466606
+% of Other cover=  0.900443569029
+
+11Mar09:
+% of Healthy Veg cover=  0.0216751051955
+% of Vegetation cover=  46.1172102286
+% of Soil cover=  45.9126721522
+% of Water cover=  7.01295980097
+% of Other cover=  0.935482712982
+
+01nov09:
+% of Healthy Veg cover=  29.0060315711
+% of Vegetation cover=  66.4000947384
+% of Soil cover=  1.44696447078
+% of Water cover=  2.21283119405
+% of Other cover=  0.934078025696
+
+05feb10:
+% of Healthy Veg cover=  0.417094576034
+% of Vegetation cover=  83.3403112475
+% of Soil cover=  11.7991976114
+% of Water cover=  3.64079336738
+% of Other cover=  0.802603197693
+
+13May12:
+% of Healthy Veg cover=  0.283278602555
+% of Vegetation cover=  60.6738675099
+% of Soil cover=  33.714835995
+% of Water cover=  5.17566785077
+% of Other cover=  0.152350041828
+
+28Oct12:
+% of Healthy Veg cover=  7.58856943525
+% of Vegetation cover=  87.5469789859
+% of Soil cover=  2.21181669767
+% of Water cover=  2.30573565034
+% of Other cover=  0.346899230856
+
+08Jan13:
+% of Healthy Veg cover=  0.433287498907
+% of Vegetation cover=  80.5687851952
+% of Soil cover=  14.6528783603
+% of Water cover=  3.6835582914
+% of Other cover=  0.661490654147
+
+08may13:
+% of Healthy Veg cover=  0.100005930902
+% of Vegetation cover=  52.4420293361
+% of Soil cover=  41.735151675
+% of Water cover=  5.56837549476
+% of Other cover=  0.154437563211
+
+21nov13:
+% of Healthy Veg cover=  3.720158199
+% of Vegetation cover=  86.8331637303
+% of Soil cover=  5.38523938993
+% of Water cover=  2.91406279264
+% of Other cover=  1.14737588807
+
+02Nov14:
+% of Healthy Veg cover=  5.05827647966
+% of Vegetation cover=  87.6485250879
+% of Soil cover=  3.87304647343
+% of Water cover=  2.95170037235
+% of Other cover=  0.468451586626
+
+27Jan16:
+% of Healthy Veg cover=  0.102625861795
+% of Vegetation cover=  76.3115237253
+% of Soil cover=  18.4888571493
+% of Water cover=  4.27510688647
+% of Other cover=  0.821886377086
