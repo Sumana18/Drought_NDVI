@@ -8,5 +8,4 @@ Normalized Difference Vegetation Index (NDVI) quantifies vegetation by measuring
 * Water: -0.2 – 0.1 
 * Others like clouds: < -0.2
 
-# Methodology Implemented:
-![methodology](https://github.com/Sumana18/Drought_NDVI/blob/master/Methodology.PNG)
+
